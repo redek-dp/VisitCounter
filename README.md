@@ -10,9 +10,12 @@ A simple tool to boost your GitHub profile views by sending multiple requests to
 1. Clone the repository:
    ```bash
    git clone https://github.com/miiiwdy/VisitCounter-booster.git
+   ```
 2. Open the folder:
   ```bash
   cd VisitCounter-booster
+  ```
 3. Run this command:
   ```bash
   node ProfileViewer.js
+  ```
