@@ -7,7 +7,7 @@ A simple tool to boost your GitHub profile views by sending multiple requests to
 - Easy to use with a command-line interface.
 
 ## How to use?
-- Use  [![](https://visitcount.itsvg.in/api?id=your-github-username&label=Profile%20Views&color=8&icon=8&pretty=true)](https://visitcount.itsvg.in) in yout profile README.md
+- Use  "[![](https://visitcount.itsvg.in/api?id=your-github-username&label=Profile%20Views&color=8&icon=8&pretty=true)](https://visitcount.itsvg.in)" in yout profile README.md
 - Do the installation
 
 ## Installation
