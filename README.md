@@ -2,6 +2,8 @@
 
 A simple tool to boost your GitHub profile views by sending multiple requests to a visit counter URL.
 
+## Screenshot
+
 ## Features
 - Increment GitHub profile views.
 - Easy to use with a command-line interface.
