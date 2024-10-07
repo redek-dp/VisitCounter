@@ -4,6 +4,8 @@ A simple tool to boost your GitHub profile views by sending multiple requests to
 
 ## Screenshot
 
+![image](https://github.com/user-attachments/assets/4b00959e-5982-4fd5-be0b-29b556f9666f)
+
 ## Features
 - Increment GitHub profile views.
 - Easy to use with a command-line interface.
