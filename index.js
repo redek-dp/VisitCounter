@@ -46,7 +46,7 @@ class ProfileViewer {
 const profileViewer = new ProfileViewer();
 
 rl.question('Enter GitHub Username: ', (username) => {
-    const url = `https://visitcount.itsvg.in/api?id=${username}&label=Profile%20Views&color=8&icon=8&pretty=true`;
+    const url = `https://profile-counter.glitch.me/${username}count.svg`;
 
     rl.question('Enter number of View: ', async (views) => {
         const timerStart = Date.now();
