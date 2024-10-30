@@ -1,14 +1,14 @@
 {
-  "name": "profileviewer",
+  "name": "profileviewe",
   "version": "1.0.0",
-  "main": "profileViewer.js",
+  "description": "An profileviewe",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "miiiwdy",
+  "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "https-proxy-agent": "^7.0.5"
   }
